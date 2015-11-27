@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 06ba47e92bd197448a91d02176ca8b89
+timeCreated: 1446678120
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cowboy_run2x_0
+    21300002: cowboy_run2x_1
+    21300004: cowboy_run2x_2
+    21300006: cowboy_run2x_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cowboy_run2x_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 13
+        width: 144
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cowboy_run2x_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 13
+        width: 154
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cowboy_run2x_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 13
+        width: 142
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cowboy_run2x_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 13
+        width: 154
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
